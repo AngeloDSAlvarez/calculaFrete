@@ -29,7 +29,6 @@
 
             if (peso >= 5 && peso < 25)
             {
-                Console.WriteLine("teste");
                 valor = valorAtual * valorCincoKg;
             }
 
@@ -42,9 +41,12 @@
         }
 
         static double calculaFrete(
-            double distancia, double valorKm, double valorDuzentosKm, double valorMilKm,
-            double peso, double valorCincoKg, double valorVinteCincoKg )
+            double distancia, double peso)
         {
+            double valorKm = 0.1, valorDuzentosKm = 1, valorMilKm = 10;
+
+            double valorCincoKg = 5, valorVinteCincoKg = 3;
+
             double valorFrete = calculaValor(distancia, valorKm, valorDuzentosKm, valorMilKm);
             double valor = calculaPeso(valorFrete, peso, valorCincoKg, valorVinteCincoKg);
 
@@ -54,9 +56,7 @@
         static void Main(string[] args)
         {
 
-            double valorKm = 0.1, valorDuzentosKm = 1, valorMilKm = 10;
-
-            double multiCincoKg = 5,  multiVinteCincoKg = 3;
+            
 
             double distancia, peso;
 
@@ -66,7 +66,7 @@
             Console.WriteLine("Qual e o peso da encomenda? ");
             peso = Convert.ToDouble(Console.ReadLine());
 
-            double valorFinal = calculaFrete(distancia, valorKm, valorDuzentosKm, valorMilKm, peso, multiCincoKg, multiVinteCincoKg);
+            double valorFinal = calculaFrete(distancia, peso);
             
             
             Console.WriteLine("Valor final do frete: " + valorFinal);

@@ -12,3 +12,4 @@ C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.pdb
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.genruntimeconfig.cache
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\ref\calculaFrete.dll
+C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.sourcelink.json
