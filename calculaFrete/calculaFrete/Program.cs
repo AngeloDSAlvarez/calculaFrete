@@ -5,20 +5,18 @@
 
         static double calculaValor(double distancia, double valorKm, double valorDuzen, double valorMil)
         {
-            double percKm = valorKm;
-            double percDuzen = valorDuzen;
-            double percMil = valorMil;
+            
 
-            double valor = distancia * percKm;
+            double valor = distancia * valorKm;
 
             if (distancia >= 200)
             {
-                valor += distancia / 200 * percDuzen;
+                valor += (distancia / 200) * valorDuzen;
             }
 
             if (distancia >= 1000)
             {
-                valor += distancia / 1000 * percMil;
+                valor += ((int)(distancia / 1000)) * valorMil;
             }
             return valor;
         }
