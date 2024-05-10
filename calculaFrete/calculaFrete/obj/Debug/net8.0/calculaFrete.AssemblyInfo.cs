@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculaFrete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e9cbe3e454abf9382163f1951508e215907ed49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e8956d7a1d0b49f2b1f34bca8bcf12494e1aac")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculaFrete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculaFrete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

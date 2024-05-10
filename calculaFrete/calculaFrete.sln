@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculaFrete", "calculaFrete\calculaFrete.csproj", "{83610915-9B6D-43CB-9B3B-DCBC981D449D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoTesteFrete", "CalculoTesteFrete\CalculoTesteFrete.csproj", "{DD2E2FEB-345A-42B7-89F7-F77042535EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83610915-9B6D-43CB-9B3B-DCBC981D449D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83610915-9B6D-43CB-9B3B-DCBC981D449D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83610915-9B6D-43CB-9B3B-DCBC981D449D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83610915-9B6D-43CB-9B3B-DCBC981D449D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2E2FEB-345A-42B7-89F7-F77042535EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2E2FEB-345A-42B7-89F7-F77042535EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2E2FEB-345A-42B7-89F7-F77042535EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2E2FEB-345A-42B7-89F7-F77042535EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15902437-4A74-4CFB-9585-C3D1E178C25D}
+	EndGlobalSection
+EndGlobal

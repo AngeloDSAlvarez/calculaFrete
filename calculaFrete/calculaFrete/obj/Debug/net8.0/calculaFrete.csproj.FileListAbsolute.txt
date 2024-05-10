@@ -1,6 +1,4 @@
-C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\bin\Debug\net8.0\calculaFrete.exe
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\bin\Debug\net8.0\calculaFrete.deps.json
-C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\bin\Debug\net8.0\calculaFrete.runtimeconfig.json
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\bin\Debug\net8.0\calculaFrete.dll
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\bin\Debug\net8.0\calculaFrete.pdb
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,6 +8,5 @@ C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.dll
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\refint\calculaFrete.dll
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.pdb
-C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.genruntimeconfig.cache
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\ref\calculaFrete.dll
 C:\Users\angel\source\repos\calculaFrete\calculaFrete\calculaFrete\obj\Debug\net8.0\calculaFrete.sourcelink.json
